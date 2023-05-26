@@ -1,0 +1,1 @@
+<?php  $ipservidor = '168.138.143.88'; $token = 'cmVub3Zhci5wYWluZWx0di50aw=='; $senhaservidor = 'j96637116'; ?>
